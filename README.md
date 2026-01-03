@@ -67,7 +67,8 @@ The system:
 - Trains the face recognition model (trainer.yml).
 - Recognizes faces during login using Haarcascade.
 
+---
 
 _Backend Logic Credits to
 github.com/GenesisBlock3301 
-N A Sifat_
+(Nur Amin Sifat)_
