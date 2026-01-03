@@ -69,6 +69,6 @@ The system:
 
 ---
 
-_Backend Logic Credits to
-github.com/GenesisBlock3301 
-(Nur Amin Sifat)_
+Backend Logic Credits to
+_github.com/GenesisBlock3301_
+(Nur Amin Sifat)
